@@ -60,18 +60,14 @@ Following analysis were performed after joining above 2 datasets on 'School Name
 
 ## Run Instructions
 * Open a terminal
-* Confirm condo version
-
-  conda --version
-* Confirm jupyter version
-
-  jupyter --version
-* Activate conda environment
-
-  conda activate dev
-* Launch Jupyter Notebook
-
-  jupyter notebook
+* Confirm condo version\
+  conda --version\
+* Confirm jupyter version\
+  jupyter --version\
+* Activate conda environment\
+  conda activate dev\
+* Launch Jupyter Notebook\
+  jupyter notebook\
 * Jupyter Notebook is opened in a browser
 * Open "PyCitySchools/PyCitySchools_starter.ipynb" file using Jupyter Notebook
 * Click on 'Cell > Run All' to run
