@@ -51,3 +51,23 @@ Following analysis were performed after joining above 2 datasets on 'School Name
 
 
 6. The percentage of students who passed reading is higher compared to Math.
+
+## Files
+* Source Code: PyCitySchools/PyCitySchools_starter.ipynb
+* Dataset:
+  PyCitySchools/Resources/students_complete.csv
+  PyCitySchools/Resources/schools_complete.csv
+
+## Run Instructions
+* Open a terminal
+* Confirm condo version
+  conda --version
+* Confirm jupyter version
+  jupyter --version
+* Activate conda environment
+  conda activate dev
+* Open Jupyter Notebook
+  jupyter notebook
+* Jupyter Notebook is opened in a browser
+* Open "PyCitySchools/PyCitySchools_starter.ipynb" file using Jupyter Notebook
+* Click on 'Cell > Run All' to run
