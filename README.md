@@ -71,3 +71,6 @@ Following analysis were performed after joining above 2 datasets on 'School Name
 * Jupyter Notebook is opened in a browser
 * Open "PyCitySchools/PyCitySchools_starter.ipynb" file using Jupyter Notebook
 * Click on 'Cell > Run All' to run
+
+# Disclaimer
+This repo was published for educational purpose only. Copyright 2023 edX Boot Camps LLC. All rights reserved.
